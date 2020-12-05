@@ -1,0 +1,22 @@
+.root {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .content{
+      display: flex;
+  }
+  
+  .info{
+      padding-left: 10px;
+  }
+  
+  .cover{
+      height: 100px;
+      width: 100px;
+  }
+  
+  h2, h3, h4, h5, h6 {
+      margin-top: 0px;
+      margin-bottom: 5px;
+  }
